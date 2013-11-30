@@ -1,0 +1,9 @@
+D:\Projects\Staj\Gural.Staj.Egitim.MySql\Gural.Staj.Egitim.MySql.DAL\bin\Debug\Gural.Staj.Egitim.MySql.DAL.dll
+D:\Projects\Staj\Gural.Staj.Egitim.MySql\Gural.Staj.Egitim.MySql.DAL\bin\Debug\Gural.Staj.Egitim.MySql.DAL.pdb
+D:\Projects\Staj\Gural.Staj.Egitim.MySql\Gural.Staj.Egitim.MySql.DAL\obj\Debug\Gural.Staj.Egitim.MySql.DAL.dll
+D:\Projects\Staj\Gural.Staj.Egitim.MySql\Gural.Staj.Egitim.MySql.DAL\obj\Debug\Gural.Staj.Egitim.MySql.DAL.pdb
+D:\Projects\Gural.Staj.Egitim.MySql\Gural.Staj.Egitim.MySql.DAL\bin\Debug\Gural.Staj.Egitim.MySql.DAL.dll
+D:\Projects\Gural.Staj.Egitim.MySql\Gural.Staj.Egitim.MySql.DAL\bin\Debug\Gural.Staj.Egitim.MySql.DAL.pdb
+D:\Projects\Gural.Staj.Egitim.MySql\Gural.Staj.Egitim.MySql.DAL\obj\Debug\Gural.Staj.Egitim.MySql.Model.csprojResolveAssemblyReference.cache
+D:\Projects\Gural.Staj.Egitim.MySql\Gural.Staj.Egitim.MySql.DAL\obj\Debug\Gural.Staj.Egitim.MySql.DAL.dll
+D:\Projects\Gural.Staj.Egitim.MySql\Gural.Staj.Egitim.MySql.DAL\obj\Debug\Gural.Staj.Egitim.MySql.DAL.pdb
